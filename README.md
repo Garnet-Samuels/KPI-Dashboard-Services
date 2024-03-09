@@ -1,5 +1,5 @@
 # KPI Dashboards
-This repository contains the development and deployment of KPI dashboards using the data visualisation software Microsoft Power BI and Microsoft Excel reports or Google Sheets reports.
+This repository contains the development and deployment of KPI dashboards using  software Microsoft Power BI and Microsoft Excel reports or Google Sheets reports.
 
 # My Services 
 Discolsure:
